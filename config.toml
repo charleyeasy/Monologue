@@ -14,7 +14,7 @@ home = ["HTML", "RSS", "Algolia"]
 
 [params]
   header_image = "img/inanis.jpg"
-  SEOTitle = ""
+  #SEOTitle = ""
   description = "這裡又是哪裡啊我也不知道"
   keyword = "沒那麼多keyword啦狗幹"
   slogan = "作品分享、心情點滴、網誌語錄"
