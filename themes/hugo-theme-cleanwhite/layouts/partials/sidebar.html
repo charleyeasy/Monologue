@@ -232,7 +232,7 @@
         <h5>FRIENDS</h5>
         <ul class="list-inline">
             {{ range .Site.Params.friend_link }}
-            <li><a target="_blank" href="{{.href | relLangURL}}">{{.title}}</a></li>
+            <li><a target="_blank" href="{{.href | absLangURL}}">{{.title}}</a></li>
             {{ end }}
         </ul>
     </section>
