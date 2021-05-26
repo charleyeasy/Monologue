@@ -1,4 +1,6 @@
-![](/img/zhaohuabing.png)  **_Huabing Zhao_** is an ICT veteran with a passion for open source. He has a solid experience in the telecommunication and information technology industry for more than 17 years.
+![](/img/charley5.jpg)  
+# 早安！這裡是 **- Monologue -** 
+is an ICT veteran with a passion for open source. He has a solid experience in the telecommunication and information technology industry for more than 17 years.
 
 Throughout his career, he has built a number of large-scale, cross-country OSS/BSS platforms/systems and operation tools, most of them are still running in productions.
 

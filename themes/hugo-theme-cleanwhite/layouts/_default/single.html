@@ -57,14 +57,14 @@
 
                 {{ if not (eq (.Param "showtoc") false) }}
                 <header>
-                    <h2>TOC</h2>
+                    
                 </header>
-                {{.TableOfContents}}
+                <!--{{.TableOfContents}}-->
                 {{ end }}
                 {{ .Content }}
 
                 {{ if .Site.Params.reward }}
-                {{ partial "reward.html" . }}
+                <!--{{ partial "reward.html" . }}-->
                 {{ end }}
 
                 <hr>

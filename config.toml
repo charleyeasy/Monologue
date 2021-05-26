@@ -20,7 +20,7 @@ home = ["HTML", "RSS", "Algolia"]
   slogan = "作品分享、心情點滴、網誌語錄"
 
   image_404 = "img/404-bg.jpg"
-  title_404 = "你来到了没有知识的荒原 :("
+  title_404 = "eror404 not found :("
   omit_categories = false
 
   # leancloud storage for page view counter
@@ -34,12 +34,13 @@ home = ["HTML", "RSS", "Algolia"]
   algolia_indexName = ""
   algolia_apiKey = ""
 
-  # Sidebar settings
-  sidebar_about_description = "Software Developer, Open Source Enthusiast and Life Adventurer"
-  #sidebar_avatar = "img/avatar-zhaohuabing.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
-  sidebar_avatar = "img/zhaohuabing.png"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
-  featured_tags = true 
+  # Sidebar settings
+  sidebar_about_description = "早安、午安、晚安"
+  #sidebar_avatar = "img/avatar-zhaohuabing.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
+  sidebar_avatar = "img/charley.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
+
+  featured_tags = true
   featured_condition_size = 1 
 
   # Baidu Analytics
@@ -63,16 +64,16 @@ home = ["HTML", "RSS", "Algolia"]
   #custom_js = ["js/lightbox.js", "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js", "js/main.js"]
 
   [params.social]
-  rss            = true 
-  email          = "youremail@gmail.com"
-  #facebook      = "full profile url in facebook"
+  #rss            = true 
+  email          = "charleychen5405@gmail.com"
+  facebook      = "https://www.facebook.com/charleyeasy/"
   #googleplus    = "full profile url in googleplus"
   #twitter       = "full profile url in twitter"
-  linkedin       = "https://www.linkedin.com/in/yourlinkedinid"
-  stackoverflow  = "https://stackoverflow.com/users/yourstackoverflowid"
-  #instagram     = "full profile url in instagram"
-  github         = "https://github.com/yourgithub"
-  wechat         = "your wechat qr code image"
+  #linkedin       = "https://www.linkedin.com/in/yourlinkedinid"
+  #stackoverflow  = "https://stackoverflow.com/users/yourstackoverflowid"
+  instagram     = "https://www.instagram.com/aromaticlily.3/"
+  #github         = "https://github.com/yourgithub"
+  #wechat         = "your wechat qr code image"
 #  medium         = "full profile url in medium"
   #pinterest     = "full profile url in pinterest"
   #reddit        = "full profile url in reddit"
@@ -83,8 +84,8 @@ home = ["HTML", "RSS", "Algolia"]
   #git           = "full profile url for git user"
   
   [[params.friend_link]]
-  title = "Linda的博客"
-  href =  "https://zhaozhihan.com"
+  title = "Yagami大神"
+  href =  "https://yagami.dev"
 
   [[params.bookmark_link]]
   title =  "Martin Fowler"
