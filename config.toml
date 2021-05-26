@@ -1,5 +1,5 @@
 baseurl = ""
-title = "Monologue"
+title = "AromaticLily"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -41,7 +41,7 @@ home = ["HTML", "RSS", "Algolia"]
   sidebar_avatar = "img/charley.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
   featured_tags = true
-  featured_condition_size = 1 
+  featured_condition_size = 1
 
   # Baidu Analytics
   ba_track_id = ""
@@ -100,9 +100,9 @@ home = ["HTML", "RSS", "Algolia"]
   title = "unsplash"
   href = "https://unsplash.com"
   
-  [[params.addtional_menus]]
-  title =  "BOOKS"
-  href =  "/top/books/"
+  #[[params.addtional_menus]]
+  #title =  "BOOKS"
+  #href =  "/top/books/"
   [[params.addtional_menus]]
   title =  "ABOUT"
   href =  "/top/about/"
@@ -119,7 +119,7 @@ params = ["categories", "tags"]
 
 [markup]
   [markup.tableOfContents]
-    endLevel = 2
-    startLevel = 1
+    endLevel = 3
+    startLevel = 2
   [markup.highlight]
     style = "dracula"
