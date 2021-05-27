@@ -1,5 +1,5 @@
 baseurl = ""
-title = "AromaticLily"
+title = "Monologue"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -71,7 +71,7 @@ home = ["HTML", "RSS", "Algolia"]
   #twitter       = "full profile url in twitter"
   #linkedin       = "https://www.linkedin.com/in/yourlinkedinid"
   #stackoverflow  = "https://stackoverflow.com/users/yourstackoverflowid"
-  instagram     = "https://www.instagram.com/aromaticlily.3/"
+  instagram     = "https://www.instagram.com/charleyeasy/"
   #github         = "https://github.com/yourgithub"
   #wechat         = "your wechat qr code image"
 #  medium         = "full profile url in medium"
