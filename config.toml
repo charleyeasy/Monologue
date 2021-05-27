@@ -36,7 +36,7 @@ home = ["HTML", "RSS", "Algolia"]
 
 
   # Sidebar settings
-  sidebar_about_description = "早安、午安、晚安"
+  sidebar_about_description = "歡迎來到我的個人網站"
   #sidebar_avatar = "img/avatar-zhaohuabing.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
   sidebar_avatar = "img/charley.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
@@ -68,7 +68,7 @@ home = ["HTML", "RSS", "Algolia"]
   email          = "charleychen5405@gmail.com"
   facebook      = "https://www.facebook.com/charleyeasy/"
   #googleplus    = "full profile url in googleplus"
-  #twitter       = "full profile url in twitter"
+  #twitter       = "https://www.youtube.com/channel/UCgYEmDu8h6ryk1XHU0PkNYg"
   #linkedin       = "https://www.linkedin.com/in/yourlinkedinid"
   #stackoverflow  = "https://stackoverflow.com/users/yourstackoverflowid"
   instagram     = "https://www.instagram.com/charleyeasy/"
