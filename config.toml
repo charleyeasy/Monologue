@@ -1,4 +1,4 @@
-baseurl = "https://charleyeasy.github.io/Monologue/"
+baseurl = ""
 title = "Monologue"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
@@ -106,6 +106,7 @@ home = ["HTML", "RSS", "Algolia"]
   [[params.addtional_menus]]
   title =  "ABOUT"
   href =  "/top/about/"
+
 
 [outputFormats.Algolia]
 baseName = "algolia"
