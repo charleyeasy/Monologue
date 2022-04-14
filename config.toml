@@ -1,4 +1,4 @@
-baseurl = "https://charleyeasy.github.io/Monologue/"
+baseurl = ""
 title = "Monologue"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
